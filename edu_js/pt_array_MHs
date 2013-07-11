@@ -1,0 +1,6 @@
+concat                          join                          
+ Methods        pop                             push                          
+                reverse                         shift                         
+                slice                           sort                          
+                splice                          toSource                      |
+                toString                        unshift

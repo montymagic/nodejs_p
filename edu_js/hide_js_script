@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Hide scripts using comments.</title>
+<script language="javascript" type="text/javascript">
+
+<!--
+
+lines of JavaScript code here
+...
+
+//-->
+
+</script>
+
+</head>
+<body>
+
+Page content here...
+
+</body>
+</html>
